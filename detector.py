@@ -1,3 +1,5 @@
+#this file contains the actual uneven lighting analysis algorithm
+
 import numpy as np
 import cv2, sys
 from scipy.signal import find_peaks
