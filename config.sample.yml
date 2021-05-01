@@ -1,3 +1,5 @@
+#this file contains the keys that are needed to access the pictures in the S3 bucket.
+
 s3:
   aws_access_key_id:
   aws_secret_access_key:
